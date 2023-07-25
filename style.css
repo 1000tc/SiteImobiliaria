@@ -16,6 +16,7 @@ li{
 }
 
 .menu{
+  margin-left: 5%;
   margin-top: 2%;
   display: flex;
   justify-content:left;
@@ -23,7 +24,8 @@ li{
 }
 
 .menu li{
-  margin-left:10px;
+  padding-right:2%;
+
   
 }
 
@@ -31,20 +33,19 @@ li{
   opacity: 50%;
 }
 .menu #pesquisa{
-  margin-left: 16rem;
-  margin-right: 1rem;
+  padding-left: 5%;
   
 }
 
 .menu .direita{
-  margin-right: 0;
-  padding-right: 0px;
+  padding-left: 5%;
 
 }
 
 #apresentation{
   margin-top: 2%;
-  width: 100%;
+  margin-left: 5%;
+  width: 1100px;
   height: 500px;
   overflow: hidden;
   background-image: url(images/fundoImoveis.jpg);
